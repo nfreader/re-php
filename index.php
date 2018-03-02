@@ -69,7 +69,16 @@ $today = date('z');
 
       <p>Review the wordlist below. If you're satisfied with the words, hit Copy Seed to save the seed. Securely transmit that seed to your buddy. When they input it into the seed field below, they should get the same word list. If you want a new wordlist, hit New Wordlist.</p>
 
-      <p><small>Wordlist from <a target="_blank" rel="noopener noreferrer" href="https://github.com/atebits/words">atebits/words</a></small>. <a target="_blank" rel="noopener noreferrer" href="https://github.com/nfreader/re-php">Ruby-Everest</a> source on GitHub</p>
+      <p>Great for:</p>
+      <ul>
+        <li>Verifying that someone is who they say they are over nonsecure channels!</li>
+        <li>Looking like a total dork in front of your friends!</li>
+        <li>And total strangers!</li>
+        <li>Probably getting caught if you're using this in the real-world (please don't)!</li>
+        <li><a href="https://www.youtube.com/watch?v=K6Ato2GhU-o" target="_blank" rel="noopener noreferrer"> Mix your words</a> <a href="https://www.youtube.com/watch?v=U5T9cFV-ExI" target="_blank" rel="noopener noreferrer">into everyday conversation!</a></li>
+      </ul>
+
+      <p><small>Wordlist from <a target="_blank" rel="noopener noreferrer" href="https://github.com/atebits/words">atebits/words</a>. <a target="_blank" rel="noopener noreferrer" href="https://github.com/nfreader/re-php">Ruby-Everest</a> source on GitHub.</small></p>
 
       <div class="alert alert-danger">Please don't actually use this for anything truly important.</div>
 
